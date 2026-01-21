@@ -1,0 +1,121 @@
+Aedes aegypti Study Areas - Coordinate Report
+============================================================
+
+Reference: Codeco et al. (2015) PLoS Negl Trop Dis
+DOI: 10.1371/journal.pntd.0003475
+
+
+Santarem_PA
+----------------------------------------
+City center reference: (-2.4431, -54.7081)
+
+  Jd_Santarem:
+    Latitude:  -2.4378241794575026
+    Longitude: -54.71987459086378
+    Zoom:      17
+    Coverage:  ~1527m x 1527m
+
+  Republica:
+    Latitude:  -2.4678187892272376
+    Longitude: -54.71850151326716
+    Zoom:      17
+    Coverage:  ~1527m x 1527m
+
+  Santarenzinho:
+    Latitude:  -2.448755899384659
+    Longitude: -54.739186248494214
+    Zoom:      17
+    Coverage:  ~1527m x 1527m
+
+
+Parnamirim_RN
+----------------------------------------
+City center reference: (-5.9158, -35.2628)
+
+  Areia:
+    Latitude:  -5.911979478632795
+    Longitude: -35.28125445852211
+    Zoom:      17
+    Coverage:  ~1521m x 1521m
+
+  Emaus:
+    Latitude:  -5.883164700992478
+    Longitude: -35.248752695921134
+    Zoom:      17
+    Coverage:  ~1521m x 1521m
+
+  Liberdade:
+    Latitude:  -5.9293443352973325
+    Longitude: -35.2466101857502
+    Zoom:      17
+    Coverage:  ~1521m x 1521m
+
+
+DuqueDeCaxias_RJ
+----------------------------------------
+City center reference: (-22.7856, -43.3116)
+
+  Bilac:
+    Latitude:  -22.75639311934788
+    Longitude: -43.285990721726755
+    Zoom:      17
+    Coverage:  ~1410m x 1410m
+
+  Primavera:
+    Latitude:  -22.690484842834632
+    Longitude: -43.26754505904175
+    Zoom:      17
+    Coverage:  ~1410m x 1410m
+
+  Saracuruna:
+    Latitude:  -22.67618976653338
+    Longitude: -43.253923409713764
+    Zoom:      17
+    Coverage:  ~1411m x 1411m
+
+
+NovaIguacu_RJ
+----------------------------------------
+City center reference: (-22.7556, -43.4503)
+
+  Cabucu:
+    Latitude:  -22.78330975017275
+    Longitude: -43.54597528965344
+    Zoom:      17
+    Coverage:  ~1409m x 1409m
+
+  Ceramica:
+    Latitude:  -22.733255495451203
+    Longitude: -43.47619632222511
+    Zoom:      17
+    Coverage:  ~1410m x 1410m
+
+  Moqueta:
+    Latitude:  -22.745873633848824
+    Longitude: -43.45582278212255
+    Zoom:      17
+    Coverage:  ~1410m x 1410m
+
+
+CampoGrande_MS
+----------------------------------------
+City center reference: (-20.4428, -54.6464)
+
+  Carlota:
+    Latitude:  -20.493369919889364
+    Longitude: -54.599496948275636
+    Zoom:      17
+    Coverage:  ~1432m x 1432m
+
+  Guanandi:
+    Latitude:  -20.50009659444382
+    Longitude: -54.6453119802571
+    Zoom:      17
+    Coverage:  ~1432m x 1432m
+
+  Planalto:
+    Latitude:  -20.452341817016315
+    Longitude: -54.62921434767367
+    Zoom:      17
+    Coverage:  ~1432m x 1432m
+
